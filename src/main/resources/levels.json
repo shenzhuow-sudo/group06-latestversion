@@ -1,0 +1,156 @@
+{
+  "levels": [
+    {
+      "levelId": 1,
+      "difficulty": "EASY",
+      "timeLimitSec": 60,
+      "words": [
+        "apple",
+        "stone",
+        "cloud",
+        "river",
+        "tiger",
+        "light",
+        "dream",
+        "bloom",
+        "spark",
+        "mango",
+        "quest",
+        "flame"
+      ]
+    },
+    {
+      "levelId": 2,
+      "difficulty": "MEDIUM",
+      "timeLimitSec": 70,
+      "words": [
+        "banana",
+        "forest",
+        "hunter",
+        "planet",
+        "rocket",
+        "silver",
+        "jungle",
+        "thunder",
+        "castle",
+        "galaxy",
+        "pirates",
+        "crystal"
+      ]
+    },
+    {
+      "levelId": 3,
+      "difficulty": "MEDIUM",
+      "timeLimitSec": 75,
+      "words": [
+        "phoenix",
+        "harvest",
+        "mystery",
+        "compass",
+        "voyager",
+        "whisper",
+        "gravity",
+        "lantern",
+        "mirrors",
+        "falcons",
+        "citadel",
+        "shadows"
+      ]
+    },
+    {
+      "levelId": 4,
+      "difficulty": "HARD",
+      "timeLimitSec": 85,
+      "words": [
+        "adventure",
+        "lightning",
+        "waterfalls",
+        "treasures",
+        "horizons",
+        "mountains",
+        "dangerous",
+        "champions",
+        "mysteries",
+        "enchanted",
+        "discovery",
+        "hurricane"
+      ]
+    },
+    {
+      "levelId": 5,
+      "difficulty": "HARD",
+      "timeLimitSec": 90,
+      "words": [
+        "constellation",
+        "transcendent",
+        "interstellar",
+        "extraordinary",
+        "misdirection",
+        "rejuvenation",
+        "adventurous",
+        "enchantment",
+        "masterpieces",
+        "civilization",
+        "transformers",
+        "understanding"
+      ]
+    },
+    {
+      "levelId": 6,
+      "difficulty": "HARD",
+      "timeLimitSec": 95,
+      "words": [
+        "architecture",
+        "mathematical",
+        "exploration",
+        "engineering",
+        "storytelling",
+        "navigation",
+        "challenging",
+        "friendships",
+        "brainstorming",
+        "wildflowers",
+        "adrenaline",
+        "resilience"
+      ]
+    },
+    {
+      "levelId": 7,
+      "difficulty": "HARD",
+      "timeLimitSec": 100,
+      "words": [
+        "bioluminescent",
+        "hyperactivity",
+        "misunderstood",
+        "counterattack",
+        "microgravity",
+        "protagonists",
+        "unforgettable",
+        "rehabilitate",
+        "transformative",
+        "determination",
+        "concentration",
+        "teleportation"
+      ]
+    },
+    {
+      "levelId": 8,
+      "difficulty": "HARD",
+      "timeLimitSec": 110,
+      "words": [
+        "interdimensional",
+        "characteristically",
+        "institutionalize",
+        "electromagnetic",
+        "miscommunication",
+        "photosynthesis",
+        "overcomplicated",
+        "responsibility",
+        "multiplayergame",
+        "counterproductive",
+        "misinterpretation",
+        "unpredictability"
+      ]
+    }
+  ]
+}
